@@ -1,0 +1,13 @@
+# Compiled Java
+*.class
+build/
+dist/
+
+# Course report kept out of the public repo — it may contain other
+# group members' names / student IDs.
+Project-Report.pdf
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+nbproject/private/
